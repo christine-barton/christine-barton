@@ -1,4 +1,9 @@
-### Hi there 👋
+# Christine Barton
+### Finance and Business Analytics
+### Tippie College of Business, The University of Iowa
+Pronouns: she/her/hers
+
+[LinkedIn](https://www.linkedin.com/in/christine-barton-b592941b6/)
 
 <!--
 **christine-barton/christine-barton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
